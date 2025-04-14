@@ -11,8 +11,10 @@ Email: /minshuo.chen/ (AT) /northwestern/ (DOT) /edu/ \n
 ~~~
 
 == News
+- I gave a [https://sites.google.com/view/snappseminar/home SNAPP seminar] on guidance for fine-tuning diffusion models \n
+Slides are avaiable [talk_diffusion_opt_unroll.pdf guidance_diffusion]. \n
 - Mengdi and I gave a tutorial on diffusion models at INFORMS 2024, Seattle \n
-Slides are available here [tutorial_diffusion.pdf tutorial_diffusion]. \n 
+Slides are available [tutorial_diffusion.pdf tutorial_diffusion]. \n 
 - Invited speaker at [https://midwest-ml.org/2024/ MMLS'24] May 20 - 21 (Free registration) \n
 - I will speak at ISYE Statistics Seminar, Georgia Tech \n
 Title: /Diffusion Models for Distribution Estimation and Optimization/ \n
@@ -31,6 +33,10 @@ My research focuses on developing principled methodologies and theoretical found
 - (Deep) reinforcement learning: diagnosis and control in complex systems
 
 Feel free to send me an email if you have mutual interest with me.
+
+~~~
+{}{img_left}{overview.jpg}{}{600cm}{822cm}{}
+~~~
 
 == Awards
 - ARC-TRIAD Student Fellowship
