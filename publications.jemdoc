@@ -2,114 +2,131 @@
 = Publications
 
 == Preprints
-. [https://arxiv.org/pdf/2407.16134 Diffusion Transformer Captures Spatial-Temporal Dependencies: A Theory for Gaussian Process Data] \n
-Hengyu Fu, Zehao Dou, Jiawei Guo, Mengdi Wang, and *Minshuo Chen* \n
+. [https://arxiv.org/pdf/2602.16198 Training-Free Adaptation of Diffusion Models via Doob's h-Transform] \n
+Qijie Zhu, Zeqi Ye, Han Liu, Zhaoran Wang, and Minshuo Chen \n
+. [https://arxiv.org/pdf/2504.06566 Diffusion Factor Models: Generating High-Dimensional Returns with Factor Structure] \n
+Minshuo Chen, Renyuan Xu, Yumin Xu, and Ruixun Zhang \n
+Short version accepted at Vienna Congress on Mathematical Finance (VCMF 2025) \n
+SIAM Financial Mathematics and Engineering Conference Best Paper Prize \n
+Runner-up of the 2025 INFORMS Best Student Paper Competition in Finance \n
+Reject and resubmit, Operations Research \n
 . [https://arxiv.org/pdf/2403.11968.pdf Unveil Conditional Diffusion Models with Classifier-free Guidance: A Sharp Statistical Theory] \n
-Hengyu Fu, Zhuoran Yang, Mengdi Wang, and *Minshuo Chen* \n
-. [https://arxiv.org/pdf/2307.12975.pdf Provable Benefits of Policy Learning from Human Preferences in Contextual Bandit Problems] \n
-Xiang Ji, Huazheng Wang, *Minshuo Chen*, Tuo Zhao, and Mengdi Wang \n
+Hengyu Fu, Zhuoran Yang, Mengdi Wang, and Minshuo Chen \n
+. [https://arxiv.org/pdf/2011.01797.pdf Doubly Robust Off-Policy Learning on Low-Dimensional Manifolds by Deep Neural Networks] \n
+Minshuo Chen, Hao Liu, Wenjing Liao, and Tuo Zhao \n
+/Minor revision at Mathematics of Operations Research/ \n
 . [https://arxiv.org/pdf/2002.03938.pdf Distribution Approximation and Statistical Estimation Guarantees of Generative Adversarial Networks] \n
-*Minshuo Chen*, Wenjing Liao, Hongyuan Zha, and Tuo Zhao \n
+Minshuo Chen, Wenjing Liao, Hongyuan Zha, and Tuo Zhao \n
 
 == Journal Papers
-. [https://arxiv.org/pdf/1908.01842.pdf Nonparametric Regression on Low-Dimensional Manifolds using Deep ReLU Networks : Function Approximation and Statistical Recovery] \n
-*Minshuo Chen*, Haoming Jiang, Wenjing Liao, and Tuo Zhao \n
-/IMA, Information and Inference/, 2022 \n
-. [https://arxiv.org/pdf/2205.02043.pdf A Manifold Two-Sample Test Study: Integral Probability Metric with Neural Networks] \n
-Jie Wang, *Minshuo Chen*, Tuo Zhao, Wenjing Liao, Yao Xie \n
-/IMA, Information and Inference/, 2023 \n
-. [https://arxiv.org/pdf/2212.00700.pdf High Dimensional Binary Classification under Label Shift: Phase Transition and Regularization] \n
-Jiahui Cheng, *Minshuo Chen*, Hao Liu, Tuo Zhao, Wenjing Liao \n
-/Sampling Theory, Signal Processing, and Data Analysis/, 2023 \n
-. [https://arxiv.org/pdf/2011.01797.pdf Doubly Robust Off-Policy Learning on Low-Dimensional Manifolds by Deep Neural Networks] \n
-*Minshuo Chen*, Hao Liu, Wenjing Liao, and Tuo Zhao \n
-/Major revision at Mathematics of Operations Research/ \n
-. [https://arxiv.org/pdf/2201.00217.pdf Deep Nonparametric Estimation of Operators between Infinite Dimensional Spaces] \n
-Hao Liu, Haizhao Yang, *Minshuo Chen*, Tuo Zhao, and Wenjing Liao \n
-/Journal of Machine Learning Research/, 2024 \n
-. [https://arxiv.org/pdf/2306.01243.pdf Efficient RL with Impaired Observability: Learning to Act with Delayed and Missing State Observations] \n
-*Minshuo Chen*, Jie Meng, Yu Bai, Yinyu Ye, H. Vincent Poor, and Mengdi Wang \n
-/IEEE Transactions on Information Theory/, 2024 \n
-. [https://arxiv.org/pdf/2404.07771.pdf Challenges and Opportunities of Diffusion Models for Generative AI: Applications, Guided Generation, Statistical Rates and Optimization] \n
-*Minshuo Chen*, Song Mei, Jianqing Fan, and Mengdi Wang \n
-/National Science Review/, to appear \n
 . [https://arxiv.org/pdf/2309.13915.pdf Sample Complexity of Neural Policy Mirror Descent for Policy Optimization on Low-Dimensional Manifolds] \n
 Zhenghao Xu, Xiang Ji, Minshuo Chen, Mengdi Wang, and Tuo Zhao \n
 /Journal of Machine Learning Research/, 2024 \n
+. [https://arxiv.org/pdf/2404.07771.pdf Challenges and Opportunities of Diffusion Models for Generative AI: Applications, Guided Generation, Statistical Rates and Optimization] \n
+Minshuo Chen, Song Mei, Jianqing Fan, and Mengdi Wang \n
+/National Science Review/, 2024 \n
+. [https://arxiv.org/pdf/2306.01243.pdf Efficient RL with Impaired Observability: Learning to Act with Delayed and Missing State Observations] \n
+Minshuo Chen, Jie Meng, Yu Bai, Yinyu Ye, H. Vincent Poor, and Mengdi Wang \n
+/IEEE Transactions on Information Theory/, 2024 \n
+. [https://arxiv.org/pdf/2201.00217.pdf Deep Nonparametric Estimation of Operators between Infinite Dimensional Spaces] \n
+Hao Liu, Haizhao Yang, Minshuo Chen, Tuo Zhao, and Wenjing Liao \n
+/Journal of Machine Learning Research/, 2024 \n
+. [https://arxiv.org/pdf/2212.00700.pdf High Dimensional Binary Classification under Label Shift: Phase Transition and Regularization] \n
+Jiahui Cheng, Minshuo Chen, Hao Liu, Tuo Zhao, Wenjing Liao \n
+/Sampling Theory, Signal Processing, and Data Analysis/, 2023 \n
+. [https://arxiv.org/pdf/2205.02043.pdf A Manifold Two-Sample Test Study: Integral Probability Metric with Neural Networks] \n
+Jie Wang, Minshuo Chen, Tuo Zhao, Wenjing Liao, Yao Xie \n
+/IMA, Information and Inference/, 2023 \n
+. [https://arxiv.org/pdf/1908.01842.pdf Nonparametric Regression on Low-Dimensional Manifolds using Deep ReLU Networks : Function Approximation and Statistical Recovery] \n
+Minshuo Chen, Haoming Jiang, Wenjing Liao, and Tuo Zhao \n
+/IMA, Information and Inference/, 2022 \n
+
 
 == Conference Papers
+. [https://arxiv.org/pdf/2511.03202 Provable separations between memorization and generalization in diffusion models] \n
+Zeqi Ye, Qijie Zhu, Molei Tao, and Minshuo Chen \n
+/International Conference on Learning Representations (ICLR)/, 2026 \n
+. [https://arxiv.org/pdf/2510.02216 Diffusion Transformers for Imputation: Statistical Efficiency and Uncertainty Quantification] \n
+Zeqi Ye, Minshuo Chen \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2025 \n
+. [https://arxiv.org/pdf/2407.16134 Diffusion Transformer Captures Spatial-Temporal Dependencies: A Theory for Gaussian Process Data] \n
+Hengyu Fu, Zehao Dou, Jiawei Guo, Mengdi Wang, and Minshuo Chen \n
+/International Conference on Learning Representations (ICLR)/, 2025 \n
+. [https://arxiv.org/pdf/2411.00841 A Theoretical Perspective for Speculative Decoding Algorithm] \n
+Ming Yin, Minshuo Chen, Kaixuan Huang, and Mengdi Wang \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2024 \n
 . [https://arxiv.org/pdf/2404.14743 Gradient Guidance for Diffusion Models: An Optimization Perspective] \n
-Yingqing Guo, Hui Yuan, Yukang Yang, *Minshuo Chen*, and Mengdi Wang \n
+Yingqing Guo, Hui Yuan, Yukang Yang, Minshuo Chen, and Mengdi Wang \n
 /Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2024 \n 
 . [https://arxiv.org/pdf/2406.16213 Provable Statistical Rates for Consistency Diffusion Models] \n
-Zehao Dou, *Minshuo Chen*, Mengdi Wang, and Zhuoran Yang \n
+Zehao Dou, Minshuo Chen, Mengdi Wang, and Zhuoran Yang \n
 /International Conference on Machine Learning (ICML)/, 2024 \n
 . [https://arxiv.org/pdf/2403.01639.pdf Theoretical Insights for Diffusion Guidance: A Case Study for Gaussian Mixture Models] \n
-Yuchen Wu, *Minshuo Chen*, Zihao Li, Mengdi Wang, and Yuting Wei \n
+Yuchen Wu, Minshuo Chen, Zihao Li, Mengdi Wang, and Yuting Wei \n
 /International Conference on Machine Learning (ICML)/, 2024 \n
 . [https://arxiv.org/pdf/2307.02884.pdf Sample-Efficient Learning of POMDPs with Multiple Observations In Hindsight] \n
-Jiacheng Guo, *Minshuo Chen*, Huan Wang, Caiming Xiong, Mengdi Wang, and Yu Bai \n
+Jiacheng Guo, Minshuo Chen, Huan Wang, Caiming Xiong, Mengdi Wang, and Yu Bai \n
 /International Conference on Learning Representations (ICLR)/, 2024 \n
 . [https://arxiv.org/pdf/2307.07055.pdf Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement] \n
-Hui Yuan, Kaixuan Huang, Chengzhuo Ni, *Minshuo Chen*, and Mengdi Wang \n
+Hui Yuan, Kaixuan Huang, Chengzhuo Ni, Minshuo Chen, and Mengdi Wang \n
 /Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2023 \n
 . [https://arxiv.org/pdf/2306.01243.pdf Efficient RL with Impaired Observability: Learning to Act with Delayed and Missing State Observations] \n
-*Minshuo Chen*, Jie Meng, Yu Bai, Yinyu Ye, H. Vincent Poor, and Mengdi Wang \n
+Minshuo Chen, Jie Meng, Yu Bai, Yinyu Ye, H. Vincent Poor, and Mengdi Wang \n
 /Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2023 \n
 . [https://arxiv.org/pdf/2302.07194.pdf Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data] \n
-*Minshuo Chen*\*, Kaixuan Huang\*, Tuo Zhao, and Mengdi Wang (\* Equal Contribution) \n
+Minshuo Chen\*, Kaixuan Huang\*, Tuo Zhao, and Mengdi Wang (\* Equal Contribution) \n
 /International Conference on Machine Learning (ICML)/, 2023 \n
 . [Effective Minkowski Dimension of Deep Nonparametric Regression: Function Approximation and Statistical Theories] \n
-Zixuan Zhang, *Minshuo Chen*, Mengdi Wang, Wenjing Liao, and Tuo Zhao \n
+Zixuan Zhang, Minshuo Chen, Mengdi Wang, Wenjing Liao, and Tuo Zhao \n
 /International Conference on Machine Learning (ICML)/, 2023 \n
 . [https://openreview.net/forum?id=lq62uWRJjiY Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning] \n
-Qingru Zhang, *Minshuo Chen*, Alexander Bukharin, Pengcheng He, Yu Cheng, Weizhu Chen, and Tuo Zhao \n
+Qingru Zhang, Minshuo Chen, Alexander Bukharin, Pengcheng He, Yu Cheng, Weizhu Chen, and Tuo Zhao \n
 /International Conference on Learning Representations (ICLR)/, 2023 \n
 . [https://arxiv.org/pdf/2206.02887.pdf Sample Complexity of Nonparametric Off-Policy Evaluation on Low-Dimensional Manifolds using Deep Networks] \n
-Xiang Ji, *Minshuo Chen*, Mengdi Wang, and Tuo Zhao \n
+Xiang Ji, Minshuo Chen, Mengdi Wang, and Tuo Zhao \n
 /International Conference on Learning Representations (ICLR)/, 2023 \n
 . [https://openreview.net/pdf?id=4n1PS9WvdYv On Deep Generative Models for Approximation and Estimation of Distributions on Manifolds] \n
-Biraj Dahal, Alex Havrilla, *Minshuo Chen*, Tuo Zhao, and Wenjing Liao \n
+Biraj Dahal, Alex Havrilla, Minshuo Chen, Tuo Zhao, and Wenjing Liao \n
 /Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2022 \n
 . [https://arxiv.org/pdf/2206.04569.pdf Benefits of Overparameterized Convolutional Residual Networks: Function Approximation under Smoothness Constraint] \n
-Hao Liu, *Minshuo Chen*, Siawpeng Er, Wenjing Liao, Tong Zhang, and Tuo Zhao \n
+Hao Liu, Minshuo Chen, Siawpeng Er, Wenjing Liao, Tong Zhang, and Tuo Zhao \n
 /International Conference on Machine Learning (ICML)/, 2022 \n
 . [https://arxiv.org/pdf/2110.03677.pdf Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect] \n
-Yuqing Wang, *Minshuo Chen*, Tuo Zhao, and Molei Tao \n
+Yuqing Wang, Minshuo Chen, Tuo Zhao, and Molei Tao \n
 /International Conference on Learning Representations (ICLR)/, 2022 \n
 . [https://proceedings.neurips.cc/paper/2021/file/9559fc73b13fa721a816958488a5b449-Paper.pdf Pessimism Meets Invariance: Provably Efficient Offline Mean-Field Multi-Agent RL] \n
-*Minshuo Chen*, Yan Li, Ethan Wang, Zhuoran Yang, Zhaoran Wang, and Tuo Zhao \n
+Minshuo Chen, Yan Li, Ethan Wang, Zhuoran Yang, Zhaoran Wang, and Tuo Zhao \n
 /Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2021 \n
 . [https://arxiv.org/pdf/2010.05843.pdf How Important is the Train-Validation Split in Meta-Learning] \n
-Yu Bai, *Minshuo Chen*, Pan Zhou, Tuo Zhao, Jason D. Lee, Sham Kakade, Huan Wang, and Caiming Xiong \n
+Yu Bai, Minshuo Chen, Pan Zhou, Tuo Zhao, Jason D. Lee, Sham Kakade, Huan Wang, and Caiming Xiong \n
 /International Conference on Machine Learning (ICML)/, 2021 \n
 . [https://arxiv.org/pdf/2109.02832.pdf Besov Function Approximation and Binary Classification on Low-Dimensional Manifolds Using Convolutional Residual Networks] \n
-Hao Liu, *Minshuo Chen*, Tuo Zhao, and Wenjing Liao \n
+Hao Liu, Minshuo Chen, Tuo Zhao, and Wenjing Liao \n
 /International Conference on Machine Learning (ICML)/, 2021 \n
 . [https://arxiv.org/pdf/2006.13436.pdf Towards Understanding Hierarchical Learning: Benefits of Neural Representations] \n
-*Minshuo Chen*, Yu Bai, Jason D. Lee, Tuo Zhao, Huan Wang, Caiming Xiong, and Richard Socher \n
+Minshuo Chen, Yu Bai, Jason D. Lee, Tuo Zhao, Huan Wang, Caiming Xiong, and Richard Socher \n
 /Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2020 \n
 . [https://arxiv.org/pdf/2002.06504.pdf Differentiable Top-k Operator with Optimal Transport] \n
-Yujia Xie, Hanjun Dai, *Minshuo Chen*, Bo Dai, Tuo Zhao, Hongyuan Zha, Wei Wei, Tomas Pfister \n
+Yujia Xie, Hanjun Dai, Minshuo Chen, Bo Dai, Tuo Zhao, Hongyuan Zha, Wei Wei, Tomas Pfister \n
 /Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2020 \n
 . [https://arxiv.org/pdf/1910.12947.pdf On Generalization Bounds of a Family of Recurrent Neural Networks] \n
-*Minshuo Chen*, Xingguo Li, and Tuo Zhao \n
+Minshuo Chen, Xingguo Li, and Tuo Zhao \n
 /International Conference on Artificial Intelligence and Statistics (AISTATS)/, 2020
 . [https://arxiv.org/pdf/2001.02792.pdf On Computation and Generalization of Generative Adversarial Imitation Learning] \n
-*Minshuo Chen*, Yizhou Wang, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang, and Tuo Zhao \n
+Minshuo Chen, Yizhou Wang, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang, and Tuo Zhao \n
 /International Conference on Learning Representations (ICLR)/, 2020
 . [https://papers.nips.cc/paper/9028-efficient-approximation-of-deep-relu-networks-for-functions-on-low-dimensional-manifolds Efficient Approximation of Deep ReLU Networks for Functions on Low Dimensional Manifolds] \n
-*Minshuo Chen*, Haoming Jiang, Wenjing Liao, and Tuo Zhao (Alphabetical Order) \n
+Minshuo Chen, Haoming Jiang, Wenjing Liao, and Tuo Zhao (Alphabetical Order) \n
 /Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2019
 . [https://arxiv.org/pdf/1909.04653.pdf Towards Understanding the Importance of Shortcut Connections in Residual Networks] \n
-Tianyi Liu\*, *Minshuo Chen*\*, Mo Zhou, Simon Du, Enlu Zhou, and Tuo Zhao (\* Equal Contribution) \n
+Tianyi Liu\*, Minshuo Chen\*, Mo Zhou, Simon Du, Enlu Zhou, and Tuo Zhao (\* Equal Contribution) \n
 /Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2019
 . [https://arxiv.org/pdf/1905.00158.pdf On Scalable and Efficient Computation of Large Scale Optimal Transport] \n
-Yujia Xie, *Minshuo Chen*, Haoming Jiang, Tuo Zhao, and Hongyuan Zha \n
+Yujia Xie, Minshuo Chen, Haoming Jiang, Tuo Zhao, and Hongyuan Zha \n
 /International Conference on Machine Learning (ICML)/, 2019
 . [https://arxiv.org/pdf/1812.10912.pdf On Computation and Generalization of Generative Adversarial Networks under Spectrum Control] \n
-Haoming Jiang, Zhehui Chen, *Minshuo Chen*, Feng Liu, Dingding Wang, and Tuo Zhao \n
+Haoming Jiang, Zhehui Chen, Minshuo Chen, Feng Liu, Dingding Wang, and Tuo Zhao \n
 /International Conference on Learning Representations (ICLR)/, 2019
 . [https://arxiv.org/pdf/1803.02312.pdf Dimensionality Reduction for Stationary Time Series via Stochastic Nonconvex Optimization] \n
-*Minshuo Chen*, Lin Yang, Mengdi Wang, and Tuo Zhao \n
+Minshuo Chen, Lin Yang, Mengdi Wang, and Tuo Zhao \n
 /Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2018

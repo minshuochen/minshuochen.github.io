@@ -1,12 +1,18 @@
 # jemdoc: menu{MENU}{teaching.html}, nofooter
-= Teaching Experiences
+= Courses at Northwestern
 
-== TA
+I teach courses in statistics, machine learning, and generative AI at Northwestern University.
 
-- Computational Data Analysis \/ Machine Learning I (CSE6740\/ISYE6740\/CS7641), Fall 2017, Fall 2019
+- *IEMS 490: Deep Generative AI* (with a focus on diffusion and flow models), Winter 2026
+    -- [notes0.pdf 1. Discriminative and Generative Models]
+    -- [notes1.pdf 2. Mathematical Background]
+    -- [notes2.pdf 3. VAEs and Diffusion Models] | [implementation.pdf Implementation Details]
+    -- [notes3.pdf 4. Efficient Sampling: DDIM and Consistency Models]
+    -- [notes4.pdf 5. Continuous-Time Formulation of Diffusion Models]
+    -- [notes5.pdf 6. Conditional Diffusion Models] | [reward_guidance.pptx Slides: Reward Guidance]
+    -- [notes6.pdf 7. Diffusion Models and Reinforcement Learning] | [VLA.pptx Slides: Vision-Language-Action Models]
+    -- [notes7.pdf 8. Flow Matching]
 
-- Business Analytics (ISYE 4803), Spring 2018
+- *IEMS 401: Applied Mathematical Statistics*, Fall 2024, Fall 2025
 
-- Regression Analysis (ISYE 6414), Fall 2018
-
-- Basic Statistical Methods (ISYE 2028), Summer 2018, Summer 2019
+- *IEMS 304: Statistical Learning for Data Analysis*, Winter 2025, Winter 2026
