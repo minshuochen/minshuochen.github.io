@@ -24,24 +24,24 @@ Title: /Diffusion Models for Distribution Estimation and Optimization/ \n
 MA35. The Interplay between Learning, Optimization, and Statistics \n
 Oct. 16th, 8:00 - 9:15 AM \n
 
-== About Me
+== About
 I am an assistant professor with the IEMS department at Northwestern University. Prior to joining Northwestern, I am an associated research scholar with the ECE department at Princeton University, working with Prof. [https://ece.princeton.edu/people/mengdi-wang/ Mengdi Wang]. I obtained my Ph.D. from Georgia Tech, under the supervision of Prof. [https://www2.isye.gatech.edu/~tzhao80/ Tuo Zhao] and Prof. [https://wliao60.math.gatech.edu/ Wenjing Liao]. I also received a Master's degree in Electrical Engineering from UCLA, and Bachelor's degree in Electrical and Information Engineering from Zhejiang University. Here is my [CV_cms.pdf CV].
 
-My research focuses on developing principled methodologies and theoretical foundations of learning and decision-making. I am particularly interested in
-- Generative AI: diffusion models for data modeling and beyond
-- Foundations of learning: approximation, optimization and efficiency 
-- (Deep) reinforcement learning: diagnosis and control in complex systems
+My group works on *GENIOS* projects, centering on *GEN*erative AI, emphasizing *I*nnovative algorithms, efficient *O*ptimization, and *S*tatistical foundations; including
 
-Feel free to send me an email if you have mutual interest with me.
+- Generative AI: diffusion and flow models for data modeling and beyond
+- Foundations of learning: approximation, optimization and efficiency 
+- (Deep) Reinforcement learning: diagnosis and control in complex systems
+
+Members in the group:
+
+- Zeqi Ye
+- Qijie Zhu
+- [https://yuchenlou.github.io Yuchen Lou]
 
 ~~~
 {}{img_left}{overview.jpg}{}{600cm}{822cm}{}
 ~~~
-
-== Awards
-- ARC-TRIAD Student Fellowship
-- William S. Green Fellowship
-- ICML, NeurIPS Travel Award 
 
  
 
